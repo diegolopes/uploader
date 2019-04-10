@@ -1,11 +1,7 @@
-# Uploader
-Um pequeno sistema web para envio e download de arquivos em um servidor qualquer
+#Bem vindo ao meu projeto
 
-Como usar?
+O uploader nada mais é do que um site de compartilhamento de arquivos. Aqui você pode simplesmente
+fazer o upload dos seus arquivos no nosso servidor e ele ficará de livre acesso ao público para download na nossa lista de arquivos.
+Use com sabedoria, pois conteúdos ilegais serão removidos.
 
-1 - Baixe o zip
-
-2 - Extraia na raiz do server
-
-3 - Se quiser usar os comentários, configure o banco de dados, rode os comandos do arquivo SQL e pronto.
-
+Se você é um desenvolvedor por hobby, iniciante, profissional ou até mesmo um aluno pode usar e editar o código fonte à vontade e usar no seu servidor. Pois é open source. Aceito sugestões e até mesmo ajuda para melhorar esse humilde projeto.

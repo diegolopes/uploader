@@ -1,0 +1,16 @@
+.conteudo{
+    margin-top:0px !important;
+}
+
+ #browsers span{
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom: 50px;
+ }
+
+ .jumbotron{
+     background:url(../uploads/03.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-clip: inherit;
+ }
